@@ -1,0 +1,48 @@
+body {
+
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+#link{
+    position:absolute;
+    top:0;
+    right:50%;
+}
+#one {
+    position:absolute;
+    bottom:0;
+    right:0;
+    width: 25%;
+    border: 5px solid blue;
+    padding: 5px;
+    margin: 5px;
+
+}
+#two {
+    position:absolute;
+    top:0;
+    right:0;
+    width: 25%;
+    border: 5px solid green;
+    padding: 5px;
+    margin: 5px;
+
+}
+#three{
+    position:absolute;
+    left:0;
+    top:0;
+    width: 25%;
+    border: 5px solid orange;
+    padding: 5px;
+    margin: 5px;
+
+}
+#four{
+    position:absolute;
+    bottom:0;
+    left:0;
+    width: 25%;
+    border: 5px solid yellow;
+    padding: 5px;
+    margin: 5px;
+}
